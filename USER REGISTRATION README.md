@@ -1,11 +1,16 @@
 # BHARAT INTERN
 Tech Internship 
-#PROFESSIONAL USER REGISTRATION FORM 
+# PROFESSIONAL USER REGISTRATION FORM 
+
 This is a professional user registration form project designed to allow users to sign up and store their information in MongoDB. 
 The project uses 
+
 1)HTML for the front end
+
 2)CSS for styling
+
 3)Node.js for the backend
+
 4)MongoDB for data storage
 
 # FEATURES
