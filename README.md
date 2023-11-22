@@ -1,2 +1,0 @@
-# BHARAT-INTERN
-Tech Internship 
